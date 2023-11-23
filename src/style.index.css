@@ -1,0 +1,9 @@
+.contenedor {
+    display: flex;
+    justify-content: center;
+    /* Centra horizontalmente */
+    align-items: center;
+    /* Centra verticalmente */
+    height: 200px;
+    /* Altura del contenedor */
+}
